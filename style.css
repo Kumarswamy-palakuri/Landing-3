@@ -32,7 +32,7 @@ nav ul{
 .header{
   width: 100vw;
   height: 100vh;
-  background-image: url(img/back.jpg);
+  background-image: url(back.jpg);
   text-align: center;
   display: flex;
   justify-content: center;
